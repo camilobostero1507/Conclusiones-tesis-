@@ -1,4 +1,3 @@
-Con base en las conclusiones detalladas que compartiste sobre tu investigación, he rediseñado el README para que refleje con precisión el rigor académico y los hallazgos específicos de tu tesis. Este enfoque equilibra tu perfil técnico en ciencia de datos con tu especialidad en comunicación social.
 
 Análisis de la Agenda Mediática y Opinión Digital: El caso de The New York Times en Colombia
 Este repositorio presenta los resultados y la metodología de mi investigación de maestría en Comunicación, Tecnología y Sociedad de la Pontificia Universidad Javeriana. El estudio analiza la convergencia entre la agenda de los medios internacionales y la formación de opinión en ecosistemas digitales, tomando como eje la cobertura de The New York Times sobre el gobierno de Gustavo Petro.
